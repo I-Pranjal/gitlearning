@@ -1,0 +1,2 @@
+This is another file I have made to learn GitHub
+Now I am in master branch and I am making some changes. Let's see if it shows in the newbranch.
