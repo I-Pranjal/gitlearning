@@ -1,1 +1,2 @@
-This is my first Git file. I am learning GitHub using ChatGPT
+This is my first Git file. I am learning GitHub using ChatGPT.
+Now I become Pranjal...the learner of everything 
